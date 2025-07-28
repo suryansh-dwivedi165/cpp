@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main(){
-int d;
+int n;
 pritnf("Enter the number: );
-scanf("%d",&d);
+scanf("%d",&n);
 
-printf("Number is: %d",d);
+printf("Number is: %d",n);
 return 0;
 } 
