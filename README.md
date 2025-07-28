@@ -13,7 +13,7 @@ scanf("%d",&n);
 printf("Number is: %d",n);
 <br>
 return 0;
-<br>
 author -> Suryansh dwivedi
+<br>
 <br>
 } 
