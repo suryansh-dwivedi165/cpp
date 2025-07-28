@@ -14,6 +14,7 @@ printf("Number is: %d",n);
 <br>
 return 0;
 <br>
-printf("Su");
+printf("Suryansh dwivedi");
+author -> Suryansh dwivedi
 <br>
 } 
