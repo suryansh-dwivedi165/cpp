@@ -1,3 +1,4 @@
+// The basic code in c
 #include<stdio.h>
 int main(){
 int n;
