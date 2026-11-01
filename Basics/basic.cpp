@@ -5,7 +5,7 @@ int main() {
     cout << x << endl;  // 4
     x++;
     cout << x << endl;  // 5
-    x--;
+    x--
     cout << x << endl;  // 4
     return 0;
 } 
