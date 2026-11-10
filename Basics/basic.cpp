@@ -6,6 +6,6 @@ int main() {
     x++;
     cout << x << endl;  // 5
     x--
-    cout << x << endl;  // 4
+    cout << x << endl; 
     return 0;
 } 
