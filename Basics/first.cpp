@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int a,b = 0;
+    int a,b =1;
     cout<<"Enter the number: ";
     cin >> a;
     for(int i = 0;i < a;i++){
