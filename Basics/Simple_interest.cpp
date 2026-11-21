@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    float p, r, t;
+    float p, r, t
     cin >> p >> r >> t;
     cout << "Value is: ";
     cout << (p * r * t) / 100;
