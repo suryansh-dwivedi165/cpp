@@ -4,6 +4,6 @@ int main(){
     float p, r, t
     cin >> p >> r >> t;
     cout << "Value is: ";
-    cout << (p * r * t) / 100;
+    cout << (p * r * t) / 100
     return 0;
 } 
